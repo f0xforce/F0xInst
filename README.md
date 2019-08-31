@@ -1,3 +1,8 @@
 # f0xsync
-Additions to AppSync Unified or AppSync New if you installed the application through your computer or through the Filza file manager and the application simply crashes. Use the simple f0xsync script to fix this problem.
+
+F0xInst tool that allow to install any *.ipa without crash after installing by fixing using ldid and installation via appinst.
+	   
+     It working both on Chimera & Unc0ver Jailbreak Tools.
+	     
+       USAGE: f0xinst /path/to/filename.ipa
 
